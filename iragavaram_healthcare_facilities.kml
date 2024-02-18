@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Untitled</name>
+	<gx:CascadingStyle kml:id="__managed_style_0B20DA78EE2E86D6D718">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F1866C3542E86D6D717">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05F7C72F542E86D6D717">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F1866C3542E86D6D717</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0B20DA78EE2E86D6D718</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0AD95943942E86D6D715">
+		<name>Untitled polygon</name>
+		<LookAt>
+			<longitude>81.70651269963265</longitude>
+			<latitude>16.69188367707699</latitude>
+			<altitude>32.58908708859209</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>88.19589940218066</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.70651168063135,16.69182445829446,0 81.70651202601672,16.69178391621777,0 81.70655084871558,16.69177943940767,0 81.70655096780052,16.69181329449219,0 81.70651168063135,16.69182445829446,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="01B5BA97242E86D79581">
+		<name>Govt Hospital</name>
+		<LookAt>
+			<longitude>81.70711750864528</longitude>
+			<latitude>16.69197150573079</latitude>
+			<altitude>32.95910652855333</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>186.6461482011073</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.70713896909714,16.69215425380413,0 81.70695702610732,16.69213665126,0 81.70693871258375,16.69198142468633,0 81.70704872959293,16.69195231325127,0 81.70709671591119,16.69198740422375,0 81.70711708299267,16.6919897191947,0 81.70713024591866,16.69201955696509,0 81.7071512010812,16.69202697227713,0 81.70715164426008,16.69207928946294,0 81.70713896909714,16.69215425380413,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0C9B6E19D62E86D86297">
+		<name>Dr.Aadi Physiotherapy Clinic</name>
+		<LookAt>
+			<longitude>81.70578357158143</longitude>
+			<latitude>16.69462685937577</latitude>
+			<altitude>30.74858094038791</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>221.2843519387025</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.7058423808524,16.69469745083117,0 81.70582583115323,16.6946103996008,0 81.70590736657333,16.69459829074273,0 81.70593626516037,16.69462664817668,0 81.70593743629051,16.69467423240623,0 81.7058423808524,16.69469745083117,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="043BC112A62E86DA321D">
+		<name>Nagamani Medical and general stores</name>
+		<LookAt>
+			<longitude>81.70630331584171</longitude>
+			<latitude>16.69352174337081</latitude>
+			<altitude>32.83791158297178</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>287.2345421297723</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.70619302415052,16.69375230399515,0 81.7063380165923,16.69375348518121,0 81.70635667309122,16.69382866144655,0 81.70616367971039,16.69383651431796,0 81.70619302415052,16.69375230399515,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0C8B6DF9422E86DABFD2">
+		<name>Nani Medical</name>
+		<LookAt>
+			<longitude>81.7086129729901</longitude>
+			<latitude>16.69174311265797</latitude>
+			<altitude>34.50475903323579</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>174.1778397471171</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.70846221875055,16.69165476359823,0 81.70856619135213,16.69162642928589,0 81.70859337148484,16.69172049191454,0 81.70849473222634,16.69173446833975,0 81.70846221875055,16.69165476359823,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0F7A3B17872E86DC997A">
+		<name>PHC2</name>
+		<LookAt>
+			<longitude>81.72632732021536</longitude>
+			<latitude>16.71999200815355</latitude>
+			<altitude>35.63088724823755</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>301.4371260446569</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.72668028653109,16.71994639788297,0 81.72661842691191,16.71983584179398,0 81.72663369566865,16.71976276806484,0 81.72675205796827,16.71978040502339,0 81.72678107956649,16.71990392018025,0 81.72668028653109,16.71994639788297,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0398C47F9C2E86DD2792">
+		<name>GOVT HOSPITAL 2</name>
+		<LookAt>
+			<longitude>81.67822774983999</longitude>
+			<latitude>16.7154380854215</latitude>
+			<altitude>33.09673108887695</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>431.6177517319012</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.6783524447777,16.71546719718065,0 81.67873219949647,16.71544868671078,0 81.67876542760989,16.71581796146915,0 81.67835373526897,16.71585943439367,0 81.6783524447777,16.71546719718065,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0DAF47ACD82E86DDA795">
+		<name>DGKS HOSPITAL</name>
+		<LookAt>
+			<longitude>81.66932420469517</longitude>
+			<latitude>16.71523006059797</latitude>
+			<altitude>37.45652448264268</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>330.6881603630609</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.66943714978609,16.71505799260014,0 81.66959964905917,16.71504946619621,0 81.66962335601723,16.7152148562158,0 81.66945592558139,16.71522147943586,0 81.66943714978609,16.71505799260014,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="063BBA69452E86DE6D70">
+		<name>Yellapragada memorial nursing home</name>
+		<LookAt>
+			<longitude>81.74101308927413</longitude>
+			<latitude>16.65476046311938</latitude>
+			<altitude>38.00954396831339</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>444.083499061162</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.74071443036873,16.65501678251761,0 81.74049443421595,16.65504273555979,0 81.74047336221868,16.65483720268111,0 81.74067250538764,16.65476271199232,0 81.74079149422354,16.65471176795664,0 81.74125099586475,16.65463765592637,0 81.74136526088139,16.65478401070201,0 81.74130657187072,16.65509036279569,0 81.74077615580623,16.65511777457404,0 81.74071443036873,16.65501678251761,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="018B73122A2E86DF17F7">
+		<name>Untitled polygon</name>
+		<LookAt>
+			<longitude>81.67454504426095</longitude>
+			<latitude>16.75530351233715</latitude>
+			<altitude>32.70164163902715</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>819.1060032555836</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.67444680176845,16.75415384285245,0 81.67526656608082,16.75423526426247,0 81.6752556230177,16.75482065941955,0 81.67434978027823,16.7547910068643,0 81.67444680176845,16.75415384285245,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0807DFE5D22E86DF528B">
+		<name>Untitled polygon</name>
+		<LookAt>
+			<longitude>81.67454504426095</longitude>
+			<latitude>16.75530351233715</latitude>
+			<altitude>32.70164163902715</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>819.1060032555836</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.67519423653239,16.75647734894481,0 81.67521873567622,16.75610100908654,0 81.67558435683874,16.75610521378309,0 81.67554783107566,16.75648107585527,0 81.67519423653239,16.75647734894481,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="01C62213272E86DF9183">
+		<name>Untitled polygon</name>
+		<LookAt>
+			<longitude>81.67548643224296</longitude>
+			<latitude>16.75650111792367</latitude>
+			<altitude>35.66390549976279</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>816.1437206366099</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05F7C72F542E86D6D717</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.67624752947154,16.75569565702917,0 81.67659331605665,16.75570223949819,0 81.67664285803677,16.75603934216348,0 81.67666762010649,16.7564300788809,0 81.6763761828027,16.75651625695046,0 81.67624752947154,16.75569565702917,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

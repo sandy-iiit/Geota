@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Untitled</name>
+	<gx:CascadingStyle kml:id="__managed_style_2814175D1F2E8B64D40A">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_163B7154B52E8B64D40A">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C9E35906B2E8B64D40A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_163B7154B52E8B64D40A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2814175D1F2E8B64D40A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="07A59DC54F2E8B64D407">
+		<name>Nagamani medicals</name>
+		<LookAt>
+			<longitude>81.70619573651743</longitude>
+			<latitude>16.69373208467157</latitude>
+			<altitude>32.28632120340612</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>124.6270990486482</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C9E35906B2E8B64D40A</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.70617685519788,16.69374774264023,0 81.70632880413031,16.69375013440395,0 81.70631696467228,16.69383621347099,0 81.70615885995355,16.69384670959662,0 81.70615650271425,16.69381583034681,0 81.70617685519788,16.69374774264023,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="09F7D8E4872E8B6553B6">
+		<name>Nani medicals</name>
+		<LookAt>
+			<longitude>81.70847356000644</longitude>
+			<latitude>16.69170796842908</latitude>
+			<altitude>34.18127209836575</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>70.36640941228143</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C9E35906B2E8B64D40A</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.70846644452787,16.69165058193727,0 81.70856009550683,16.69163497986478,0 81.70859014035521,16.69172500391817,0 81.70849972301191,16.69173839431984,0 81.70846644452787,16.69165058193727,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0AF8C70EBC2E8B65D1AD">
+		<name>Sujatha medicasl</name>
+		<LookAt>
+			<longitude>81.72910428213555</longitude>
+			<latitude>16.70130260231806</latitude>
+			<altitude>35.789928781793</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>138.3039222996558</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C9E35906B2E8B64D40A</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.72931502300167,16.70133716063061,0 81.72933382058656,16.70144256994093,0 81.729232218528,16.70146304678945,0 81.7292135902496,16.7013812237743,0 81.72931502300167,16.70133716063061,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="04934F08122E8B66E942">
+		<name>Satyanarayana medicals</name>
+		<LookAt>
+			<longitude>81.73001655820399</longitude>
+			<latitude>16.72013207321263</latitude>
+			<altitude>36.56262426262163</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>203.9231247830685</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C9E35906B2E8B64D40A</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.72994196947539,16.72013097073703,0 81.72992939812437,16.72003978961935,0 81.73000431786645,16.72002636164985,0 81.73001443745783,16.72012706073579,0 81.72994196947539,16.72013097073703,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0F908491B72E8B678341">
+		<name>Sri Divya medicals</name>
+		<LookAt>
+			<longitude>81.7127081671274</longitude>
+			<latitude>16.71903413978967</latitude>
+			<altitude>34.70813153521494</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>144.8058994816529</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C9E35906B2E8B64D40A</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						81.71273061256585,16.71899739033129,0 81.71290088921147,16.718971722084,0 81.71291984457039,16.71911127787837,0 81.71275512491422,16.71913671357445,0 81.71274331569218,16.7190650554564,0 81.71273061256585,16.71899739033129,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
